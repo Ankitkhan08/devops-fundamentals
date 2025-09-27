@@ -1,0 +1,12 @@
+{
+  "name": "docker-multistage-app",
+  "version": "1.0.0",
+  "description": "A simple app to demonstrate multi-stage builds",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
